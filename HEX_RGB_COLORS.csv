@@ -1,6 +1,7 @@
 ﻿Name,HEX_RGB
 Absolute Zero,#0048BA
 Acid green,#B0BF1A
+Amber,#FFBF00
 Cyan,#00FFFF
 Aero blue,#C0E8D5
 Amaranth,#E52B50
@@ -11,7 +12,6 @@ Amaranth (M&P),#9F2B68
 Amaranth pink,#F19CBB
 Amaranth red,#D3212D
 Amazon,#3B7A57
-Amber,#FFBF00
 Amber (SAE/ECE),#FF7E00
 Amethyst,#9966CC
 Android green,#A4C639
